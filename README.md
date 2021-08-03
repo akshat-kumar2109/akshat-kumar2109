@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshat-kumar2109
-- 👀 I’m interested in Web development projects.
+- 👀 I’m interested in Web development and Java projects.
 - 🌱 I’m currently learning React.js and Node.js
-- 💞️ I’m looking to collaborate on any web related projects.
+- 💞️ I’m looking to collaborate on any web related projects and Java projects.
 - 📫 You can contact me at akshatkumar1101@gmail.com
 
 <!---
