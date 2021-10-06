@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akshat-kumar2109
+- 👋 Hi, I’m Akshat Kumar
 - 👀 I’m interested in Web development and Java projects.
 - 🌱 I’m currently learning React.js and Node.js
 - 💞️ I’m looking to collaborate on any web related projects and Java projects.
