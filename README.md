@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akshat Kumar
-- 👀 I’m interested in Web development and Java projects.
-- 🌱 I’m currently learning JSP and Servlet.
-- 💞️ I’m looking to collaborate on any web related projects and Java projects.
+- 👀 I’m interested in Web and MERN Stack projects.
+- 🌱 I’m currently learning Blockchain.
+- 💞️ I’m looking to collaborate on any web related projects.
 - 📫 You can contact me at akshatkumar1101@gmail.com
 
 <!---
